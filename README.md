@@ -5,11 +5,13 @@ Hey there! I'm Yuri Oliveira
 
 >  
 
-Professional transitioning into the field of Information Technology, with academic training and hands-on experience through personal projects.
+I am a second-semester Computer Science student with strong skills in communication, teamwork, and proactivity.
 
-I bring with me four years of experience in the healthcare sector, where I developed strong interpersonal skills such as effective communication, customer service, empathy, and resilience under pressure. Over time, I took on greater responsibilities and honed abilities in leadership, problem-solving, team collaboration, and adaptability.
+Currently, I work as a Game Development and Robotics Instructor, teaching programming logic to children and teenagers using C++ and Python.
 
-Currently, I’m deepening my knowledge in programming, web development, and systems analysis, combining technical learning with a solid foundation in people-focused skills.
+In my most significant project, I had the opportunity to lead the complete revitalization of a company's website. I was responsible for restructuring the entire interface and user experience, which resulted in a more modern, intuitive, and professional online presence. This project was developed using HTML, CSS, JavaScript, Vue.js, and PHP.
+
+I am continuously specializing through projects and courses to contribute to the technology world through my work.
 
 ---
 
