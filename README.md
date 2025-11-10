@@ -5,13 +5,9 @@ Hey there! I'm Yuri Oliveira
 
 >  
 
-I am a second-semester Computer Science student with strong skills in communication, teamwork, and proactivity.
+Software Developer experienced in Javascript (React, Vue, Node), Python (Flask), and Java (Spring Boot). Proficient with SQL databases and Git/Github version control.
 
-Currently, I work as a Game Development and Robotics Instructor, teaching programming logic to children and teenagers using C++ and Python.
-
-In my most significant project, I had the opportunity to lead the complete revitalization of a company's website. I was responsible for restructuring the entire interface and user experience, which resulted in a more modern, intuitive, and professional online presence. This project was developed using HTML, CSS, JavaScript, Vue.js, and PHP.
-
-I am continuously specializing through projects and courses to contribute to the technology world through my work.
+Passionate about technology, I am constantly learning and applying new tools in practice. My goal is to leverage this dedication to build more efficient solutions and establish myself as a high-performance professional.
 
 ---
 
